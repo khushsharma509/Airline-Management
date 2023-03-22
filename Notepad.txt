@@ -1,0 +1,9 @@
+Hi Guys
+
+
+	This is the Airline Mangement Project in Python.
+A very basic project for absolute begineers.
+
+
+
+Thanks.....
